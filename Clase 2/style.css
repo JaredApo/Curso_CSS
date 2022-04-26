@@ -1,0 +1,34 @@
+* { /* Selecctor universal */
+    background-color: aqua;
+}
+
+h1 {
+    /* Selector de etiqueta o de grupo */
+    color: coral;
+}
+
+h2 {
+    color: brown;
+}
+
+#t3 {
+    /* Selector de ID */
+    color: darkgray;
+}
+
+#t4 {
+    color: blueviolet;
+}
+
+div {
+    background-color: bisque;
+}
+
+.fondo-parrafo {
+    /* Selector de clase */
+    background-color: azure;
+}
+
+#fondo-h1 {
+    background-color: blue;
+}
